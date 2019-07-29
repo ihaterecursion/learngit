@@ -1,5 +1,5 @@
 template <typename Object>
-class Vector
+class Vector //add a gitlearnlabel
 {
 public:
 	explicit Vector(int initSize = 0):theSize(initSize),theCapacity(initSize + SPARE_CAPACITY)
